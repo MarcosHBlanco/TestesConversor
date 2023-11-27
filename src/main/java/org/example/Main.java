@@ -7,6 +7,6 @@ public class Main
     public static void main( String[] args )
     {
         double resultado = metrosParaMilhas(10000);
-        System.out.println(resultado + "É o resultado");
+        System.out.println(resultado + "é o resultado");
     }
 }
